@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "67394964741b5e7e541d95b6"
+  },
+  "encuentro_jugado": "semifinal",
+  "estilo_jugado": "estilo libre 100 mts",
+  "ranking": "primero",
+  "tiempo": "0:48:17",
+  "jugador": "Louis Moreau Dupuis",
+  "id_jugador": "6738ade24dd9d908d45865dd"
+},
+{
+  "_id": {
+    "$oid": "67394e0b741b5e7e541d95b7"
+  },
+  "encuentro_jugado": "semifinal",
+  "estilo_jugado": "estilo libre 100 mts",
+  "ranking": "segundo",
+  "tiempo": "0:48:22",
+  "jugador": "Brayan Urtado Castro",
+  "id_jugador": "6738aa9b4dd9d908d45865db"
+},
+{
+  "_id": {
+    "$oid": "67394f1e741b5e7e541d95b8"
+  },
+  "encuentro_jugado": "semifinal",
+  "estilo_jugado": "estilo libre 100 mts",
+  "ranking": "tercero",
+  "tiempo": "0:48:23",
+  "jugador": "Juan Carlos Molina Torres",
+  "id_jugador": "6738ad244dd9d908d45865dc"
+},
+{
+  "_id": {
+    "$oid": "6739505d741b5e7e541d95b9"
+  },
+  "encuentro_jugado": "semifinal",
+  "estilo_jugado": "estilo libre 100 mts",
+  "ranking": "cuarto",
+  "tiempo": "0:49:01",
+  "jugador": "Kenji Nakamura",
+  "id_jugador": "6738af1a4dd9d908d45865df"
+},
+{
+  "_id": {
+    "$oid": "673953bb741b5e7e541d95ba"
+  },
+  "encuentro_jugado": "semifinal",
+  "estilo_jugado": "estilo libre 100 mts",
+  "ranking": "quinto",
+  "tiempo": "0:50:06",
+  "jugador": "Benjamin John Miller",
+  "id_jugador": "6738ae7a4dd9d908d45865de"
+},
+{
+  "_id": {
+    "$oid": "673956bc741b5e7e541d95bd"
+  },
+  "encuentro_jugado": "final",
+  "estilo_jugado": "estilo libre 100 mts",
+  "ranking": "primero",
+  "tiempo": "0:47:05",
+  "jugador": "Louis Moreau Dupuis",
+  "id_jugador": "6738ade24dd9d908d45865dd"
+},
+{
+  "_id": {
+    "$oid": "67395ed9741b5e7e541d95d7"
+  },
+  "encuentro_jugado": "final",
+  "estilo_jugado": "estilo libre 100 mts",
+  "ranking": "segundo",
+  "tiempo": "0:48:10",
+  "jugador": "Juan Carlos Molina Torres",
+  "id_jugador": "6738ad244dd9d908d45865dc"
+}]
