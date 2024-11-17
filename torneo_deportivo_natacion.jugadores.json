@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "6738aa9b4dd9d908d45865db"
+  },
+  "nombre": "Brayan Urtado Castro",
+  "edad": 26,
+  "numero_identificacion": 65789423,
+  "estatura": 1.85,
+  "peso": 80,
+  "sexo": "masculino",
+  "pais": "Colombia",
+  "telefono": {
+    "$numberLong": "3054789100"
+  },
+  "direccion": "calle 15 carrera 07"
+},
+{
+  "_id": {
+    "$oid": "6738ad244dd9d908d45865dc"
+  },
+  "nombre": "Juan Carlos Molina Torres",
+  "edad": 23,
+  "numero_identificacion": 45789456,
+  "estatura": 1.78,
+  "peso": 75,
+  "sexo": "masculino",
+  "pais": "Mexico",
+  "telefono": 645468745,
+  "direccion": "Avenida libertador con calle 34"
+},
+{
+  "_id": {
+    "$oid": "6738ade24dd9d908d45865dd"
+  },
+  "nombre": "Louis Moreau Dupuis",
+  "edad": 27,
+  "numero_identificacion": 754548746,
+  "estatura": 1.85,
+  "peso": 80,
+  "sexo": "masculino",
+  "pais": "Francia",
+  "telefono": {
+    "$numberLong": "3205241416"
+  },
+  "direccion": "Carrera 4 # 65"
+},
+{
+  "_id": {
+    "$oid": "6738ae7a4dd9d908d45865de"
+  },
+  "nombre": "Benjamin John Miller",
+  "edad": 28,
+  "numero_identificacion": 554154542,
+  "estatura": 1.9,
+  "peso": 85,
+  "sexo": "masculino",
+  "pais": "Australia",
+  "telefono": {
+    "$numberLong": "3564654515"
+  },
+  "direccion": "Calle 34 # 14 Mz F"
+},
+{
+  "_id": {
+    "$oid": "6738af1a4dd9d908d45865df"
+  },
+  "nombre": "Kenji Nakamura",
+  "edad": 26,
+  "numero_identificacion": 544556146,
+  "estatura": 1.77,
+  "peso": 70,
+  "sexo": "masculino",
+  "pais": "Japon",
+  "telefono": 321355458,
+  "direccion": "carrera 54 calle 22 Mz k"
+}]

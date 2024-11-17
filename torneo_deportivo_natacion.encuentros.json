@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "6738eb6a4dd9d908d4586601"
+  },
+  "tipo_encuentro": "semifinal",
+  "fecha_encuentro": "25 de noviembre de 2024",
+  "lugar_encuentro": "Unidad Deportiva Atanacio Girardot",
+  "tipo_piscina": "Olimpica 50m",
+  "cantidad_carriles_utilizar": "5",
+  "jugadores_carrera": [
+    "Brayan Urtado Castro",
+    "Juan Carlos Molina Torres",
+    "Louis Moreau Dupuis",
+    "Benjamin John Miller",
+    "Kenji Nakamura"
+  ],
+  "id_jugadores": [
+    "6738aa9b4dd9d908d45865db",
+    "6738ad244dd9d908d45865dc",
+    "6738ade24dd9d908d45865dd",
+    "6738ae7a4dd9d908d45865de",
+    "6738af1a4dd9d908d45865df"
+  ],
+  "id_arbitros": [
+    "6738b522370713994c2a4c85",
+    "6738b6e9370713994c2a4c86",
+    "6738b763370713994c2a4c87",
+    "6738b828370713994c2a4c88",
+    "6738b8ab370713994c2a4c89",
+    "6738b911370713994c2a4c8a",
+    "6738b94b370713994c2a4c8b",
+    "6738b983370713994c2a4c8c",
+    "6738b9b4370713994c2a4c8d",
+    "6738b9fc370713994c2a4c8e",
+    "6738ba26370713994c2a4c8f"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6738f0a14dd9d908d4586602"
+  },
+  "tipo_encuentro": "final",
+  "fecha_encuentro": "28 de noviembre de 2024",
+  "lugar_encuentro": "Complejo Acuatico Simon Bolivar",
+  "tipo_piscina": "Olimpica 50m",
+  "cantidad_carriles_utilizar": "3",
+  "jugadores_carrera": [
+    "Brayan Urtado Castro",
+    "Louis Moreau Dupuis",
+    "Kenji Nakamura"
+  ],
+  "id_jugadores": [
+    "6738aa9b4dd9d908d45865db",
+    "6738ade24dd9d908d45865dd",
+    "6738af1a4dd9d908d45865df"
+  ],
+  "id_arbitros": [
+    "6738b522370713994c2a4c85",
+    "6738b763370713994c2a4c87",
+    "6738b828370713994c2a4c88",
+    "6738b8ab370713994c2a4c89",
+    "6738b94b370713994c2a4c8b",
+    "6738b983370713994c2a4c8c",
+    "6738b9b4370713994c2a4c8d",
+    "6738b9fc370713994c2a4c8e",
+    "6738ba26370713994c2a4c8f"
+  ]
+}]
