@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6738a18d370713994c2a4c75"
+  },
+  "nombre": "Jose Muñoz",
+  "edad": 30,
+  "genero": "Masculino",
+  "años_experiencia": 4,
+  "jugador_id": "6738aa9b4dd9d908d45865db",
+  "nombre_jugador": "Brayan Urtado Castro",
+  "fecha_inicio_entrenamiento": "23/04/2020"
+},
+{
+  "_id": {
+    "$oid": "6738a878370713994c2a4c76"
+  },
+  "nombre": "Ana Soler",
+  "edad": 35,
+  "genero": "femenino",
+  "años_experiencia": 3,
+  "jugador_id": "6738ad244dd9d908d45865dc",
+  "nombre_jugador": "Juan Carlos Molina Torres",
+  "fecha_inicio_entrenamiento": "1/01/2021"
+},
+{
+  "_id": {
+    "$oid": "6738a940370713994c2a4c78"
+  },
+  "nombre": "Orlando Torres",
+  "edad": 43,
+  "genero": "Masculino",
+  "años_experiencia": 10,
+  "jugador_id": "6738ade24dd9d908d45865dd",
+  "nombre_jugador": "Louis Moreau Dupuis",
+  "fecha_inicio_entrenamiento": "05/06/2018"
+},
+{
+  "_id": {
+    "$oid": "6738a9c6370713994c2a4c7a"
+  },
+  "nombre": "Alejandro Romero",
+  "edad": 24,
+  "genero": "Masculino",
+  "años_experiencia": 2,
+  "jugador_id": "6738ae7a4dd9d908d45865de",
+  "nombre_jugador": "Benjamin John Miller",
+  "fecha_inicio_entrenamiento": "15/02/2023"
+},
+{
+  "_id": {
+    "$oid": "6738aa7d370713994c2a4c7b"
+  },
+  "nombre": "Nancy Martinez",
+  "edad": 28,
+  "genero": "Femenino",
+  "años_experiencia": 7,
+  "jugador_id": "6738af1a4dd9d908d45865df",
+  "nombre_jugador": "Kenji Nakamura",
+  "fecha_inicio_entrenamiento": "30/07/2020"
+}]

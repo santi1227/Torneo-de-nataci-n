@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "6738b522370713994c2a4c85"
+  },
+  "nombre": "Yesid Ramirez",
+  "edad": 30,
+  "genero": "Masculino",
+  "codigo_licencia": "lic123",
+  "tipo_arbitracion": "juez salida",
+  "encuentro_por_arbitrar": "semifinal/final"
+},
+{
+  "_id": {
+    "$oid": "6738b6e9370713994c2a4c86"
+  },
+  "nombre": "Maicol Velez",
+  "edad": 25,
+  "genero": "Masculino",
+  "codigo_licencia": "lic2345",
+  "tipo_arbitracion": "juez jugador",
+  "encuentro_por_arbitrar": "semifinal"
+},
+{
+  "_id": {
+    "$oid": "6738b763370713994c2a4c87"
+  },
+  "nombre": "Paola Saavedra",
+  "edad": 32,
+  "genero": "Femenino",
+  "codigo_licencia": "lic3456",
+  "tipo_arbitracion": "juez jugador",
+  "encuentro_por_arbitrar": "semifinal/final"
+},
+{
+  "_id": {
+    "$oid": "6738b828370713994c2a4c88"
+  },
+  "nombre": "Ruben Moreno",
+  "edad": 25,
+  "genero": "Masculino",
+  "codigo_licencia": "lic4567",
+  "tipo_arbitracion": "juez jugador",
+  "encuentro_por_arbitrar": "semifinal/final"
+},
+{
+  "_id": {
+    "$oid": "6738b8ab370713994c2a4c89"
+  },
+  "nombre": "Martin fonseca",
+  "edad": 40,
+  "genero": "Masculino",
+  "codigo_licencia": "lic1357",
+  "tipo_arbitracion": "juez jugador",
+  "encuentro_por_arbitrar": "semifinal/final"
+},
+{
+  "_id": {
+    "$oid": "6738b911370713994c2a4c8a"
+  },
+  "nombre": "Lorena Nuñez",
+  "edad": 30,
+  "genero": "Femenino",
+  "codigo_licencia": "lic5432",
+  "tipo_arbitracion": "juez jugador",
+  "encuentro_por_arbitrar": "semifinal"
+},
+{
+  "_id": {
+    "$oid": "6738b94b370713994c2a4c8b"
+  },
+  "nombre": "Daniel Lopez",
+  "edad": 33,
+  "genero": "Masculino",
+  "codigo_licencia": "lic3465",
+  "tipo_arbitracion": "Inspector y control",
+  "encuentro_por_arbitrar": "semifinal/final"
+},
+{
+  "_id": {
+    "$oid": "6738b983370713994c2a4c8c"
+  },
+  "nombre": "Tania Duarte",
+  "edad": 21,
+  "genero": "Femenino",
+  "codigo_licencia": "lic9876",
+  "tipo_arbitracion": "Estilo y nado",
+  "encuentro_por_arbitrar": "semifinal/final"
+},
+{
+  "_id": {
+    "$oid": "6738b9b4370713994c2a4c8d"
+  },
+  "nombre": "Emmanuel Peña",
+  "edad": 36,
+  "genero": "Masculino",
+  "codigo_licencia": "lic1982",
+  "tipo_arbitracion": "Estilo y nado",
+  "encuentro_por_arbitrar": "semifinal/final"
+},
+{
+  "_id": {
+    "$oid": "6738b9fc370713994c2a4c8e"
+  },
+  "nombre": "Erik Flores",
+  "edad": 25,
+  "genero": "Masculino",
+  "codigo_licencia": "lic5445",
+  "tipo_arbitracion": "Viraje",
+  "encuentro_por_arbitrar": "semifinal/final"
+},
+{
+  "_id": {
+    "$oid": "6738ba26370713994c2a4c8f"
+  },
+  "nombre": "Karen Diaz",
+  "edad": 33,
+  "genero": "Femenino",
+  "codigo_licencia": "lic6776",
+  "tipo_arbitracion": "Viraje",
+  "encuentro_por_arbitrar": "semifinal/final"
+}]
