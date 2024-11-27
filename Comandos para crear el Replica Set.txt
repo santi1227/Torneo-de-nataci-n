@@ -1,0 +1,19 @@
+Comando para crear las instancias
+mongod --replSet RP --dbpath="C:\data\db\n1" --port 27021
+mongod --replSet RP --dbpath="C:\data\db\n2" --port 27022
+mongod --replSet RP --dbpath="C:\data\db\n3" --port 27023
+mongod --replSet RP --dbpath="C:\data\db\n4" --port 27024
+
+Acceder al servidor
+mongosh --host localhost --port 27021
+
+Inicializar el replica set
+rs.initiate()
+
+Comandos para agregar los nodos
+rs.add ("localhost:27022")
+rs.add ("localhost:27023")
+rs.add ("localhost:27024")
+
+Comando para ver el estado
+rs.status()
