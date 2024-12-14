@@ -1,0 +1,64 @@
+Configurar los Config Servers
+
+mongod --configsvr --replSet configReplSet --dbpath="C:\data\config" --port 27037   
+
+mongo --port 27037
+
+
+Configurar el conjunto de replicas
+
+rs.initiate()
+
+
+Configurar los Shards
+
+Iniciar cada shard
+
+mongod --shardsvr --replSet shard1ReplSet --dbpath="C:\data\shard1" --port 27038 
+mongod --shardsvr --replSet shard2ReplSet --dbpath="C:\data\shard2" --port 27039
+
+
+
+Conéctate a cada shard y iniciar el conjunto de replicas
+
+mongo --port 27038
+
+rs.initiate({
+  _id: "shard1ReplSet",
+  members: [
+    { _id: 0, host: "localhost:27038" }
+  ]
+})
+
+
+mongo --port 27039
+
+rs.initiate({
+  _id: "shard2ReplSet",
+  members: [
+    { _id: 0, host: "localhost:27039" }
+  ]
+})
+
+Configura el Mongos Router
+
+mongos --configdb configReplSet/localhost:27037 --port 27036
+
+
+Conectar los Shards al Clúster
+
+mongo --port 27036
+
+
+Añadimos los shards
+
+sh.addShard("shard1ReplSet/localhost:27038")
+sh.addShard("shard2ReplSet/localhost:27039")
+
+Habilita el Sharding en la Base de Datos torneo deportivo de natación
+
+sh.enableSharding("torneoDeportivoNatacion")
+sh.shardCollection("torneoDeportivoNatacion.jugadores",{"edad":"hashed"})
+
+Validamos la configuracion
+sh.status()
